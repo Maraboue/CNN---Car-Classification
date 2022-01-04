@@ -5,12 +5,10 @@ Convolutional Neural Network model for car classification.
 
 Model: Sequential<br/>
 Optimizer: Adam<br/>
-Total params: 18,539,296<br/>
-Trainable params: 18,538,080<br/>
-Non-trainable params: 1,216<br/>
-Result from last epoch:<br/>
-Epoch 25/25<br/>
-32/32 [==============================] - 3s 93ms/step - loss: 0.3089 - accuracy: 0.9947 - val_loss: 7.9782 - val_accuracy: 0.0703<br/>
+Total params: 1,313,064<br/>
+Trainable params: 1,312,544<br/>
+Non-trainable params: 520<br/>
+255/254 [==============================] - 56s 220ms/step - loss: 1.0099 - accuracy: 0.7461 - val_loss: 0.3658 - val_accuracy: 0.9067
 
-![bild](https://user-images.githubusercontent.com/45522287/148084631-16f27514-7be5-472e-b080-d30005093106.png)
+![bild](https://user-images.githubusercontent.com/45522287/148085553-75700ff5-488c-498e-84d7-7657598743ac.png)
 1. Graph over model accuracy. 
